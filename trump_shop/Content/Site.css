@@ -17,9 +17,9 @@ html, body {
 }
 .templateTitle 
 {
-    float:left;
+    
     margin-left: 15px;
-    margin-top: 11px;
+    margin-top: 5px;
 }
 .templateTitle a 
 {
@@ -29,10 +29,11 @@ html, body {
 }
 .loginControl 
 {
-    float: right;
+    text-align:center;
     margin-top: 17px;
     margin-right: 25px;
-    font-size: 12px;
+    margin-bottom:5px;
+    font-size: 14px;
 }
 .loginControl a 
 {
@@ -727,7 +728,9 @@ html, body {
 }
 .dxsplControl_MetropolisBlue .templateTitle a 
 {
-    font-size: 28px;
+    font-size: 22px;
+    color:blue;
+    font-weight:bolder;
 }
 .dxsplControl_MetropolisBlue .dxsplVSeparator_MetropolisBlue 
 {
@@ -818,4 +821,11 @@ html, body {
 .dxsplControl_Mulberry .footerPane
 {
     background: #F1F2F5;
+}
+.gridContent {
+    position: absolute;
+    left: 30%;
+    width: 40%;
+    padding: 0;
+    margin: 0;
 }

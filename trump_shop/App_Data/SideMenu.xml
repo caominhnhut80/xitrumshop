@@ -6,7 +6,7 @@
   </group>
   <group Text="Danh mục">
     <item Text="Sản phẩm" />
-    <item Text="Đơn vị tính" />
+    <item Text="Đơn vị tính" Name="Donvitinh" NavigateUrl="Donvitinh.aspx"/>
     
   </group>
   <group Text="Nhập hàng">

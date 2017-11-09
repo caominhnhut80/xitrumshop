@@ -49,13 +49,13 @@ namespace trump_shop {
         protected global::DevExpress.Web.ASPxImage ASPxImage1;
         
         /// <summary>
-        /// ASPxNavBar1 control.
+        /// NavBar control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxNavBar ASPxNavBar1;
+        protected global::DevExpress.Web.ASPxNavBar NavBar;
         
         /// <summary>
         /// MainContent control.
@@ -65,6 +65,15 @@ namespace trump_shop {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.ContentPlaceHolder MainContent;
+        
+        /// <summary>
+        /// ASPxSplitter2 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::DevExpress.Web.ASPxSplitter ASPxSplitter2;
         
         /// <summary>
         /// XmlDataSourceLeft control.
