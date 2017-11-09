@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu>
+  <group Text="Bán hàng">
+    <item Text="Phiếu bán hàng" />
+
+  </group>
+  <group Text="Danh mục">
+    <item Text="Sản phẩm" />
+    <item Text="Đơn vị tính" />
+    
+  </group>
+  <group Text="Nhập hàng">
+    <item Text="Toa nhập hàng" />
+    
+  </group>
+  <group Text="Giá">
+    <item Text="Đặt giá bán" />
+    
+  </group>
+  <group Text="Thống kê">
+    <item Text="Báo cáo nhập hàng" />
+    <item Text="Báo cáo doanh thu theo thời gian" />
+   
+  </group>
+  <group Text="Quản trị hệ thống">
+    <item Text="Người dùng" />
+    <item Text="Nhật ký hệ thống" />
+
+  </group>
+</menu>

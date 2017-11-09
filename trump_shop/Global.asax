@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="trump_shop.Global_asax" Language="C#" %>
